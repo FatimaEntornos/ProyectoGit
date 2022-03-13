@@ -1,1 +1,2 @@
 fichero documento1.txt
+Nuevo dato documento1.txt
