@@ -1,1 +1,6 @@
 Modifico fichero1
+<<<<<<< HEAD
+=======
+Cambio fichero1 desde la rama prueba
+Otro ocambio desde prueba
+>>>>>>> prueba
